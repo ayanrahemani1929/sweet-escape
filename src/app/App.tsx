@@ -121,10 +121,10 @@ export default function App() {
         )}
       </main>
 
-      <div>
+      {/* <div>
         <h1>Test M-Pesa Payment</h1>
         <PayButton />
-      </div>
+      </div> */}
 
       {/* Footer */}
       <footer className="mt-16 border-t bg-white py-8">
